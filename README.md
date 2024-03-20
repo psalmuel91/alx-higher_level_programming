@@ -1,1 +1,1 @@
-Welcome to Sprint 2 alx-higher_level_programming project repository
+alx-higher_level_programming projects resides here
